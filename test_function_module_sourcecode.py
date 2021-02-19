@@ -1,3 +1,6 @@
+# import this module to test your shitty functions, nerd
+
+
 def testEqual(actual,expected,places=5):
     '''
     Does the actual value equal the expected value?
